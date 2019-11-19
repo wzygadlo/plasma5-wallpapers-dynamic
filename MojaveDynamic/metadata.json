@@ -1,0 +1,65 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "wzygadlo@outlook.com",
+                "Name": "Voytek Zygadlo"
+            }
+        ],
+        "Id": "mojave",
+        "License": "LGPLv3",
+        "Name": "Mojave Dynamic Wallpapers"
+    },
+    "Wallpaper": {
+        "Preview": "mojave_dynamic_6.png",
+        "Smooth": false,
+        "Type": "solar",
+        "MetaData": [
+            {
+                "Azimuth": 100,
+                "Elevation": -17,
+                "FileName": "mojave_dynamic_1.png"
+            },
+            {
+                "Azimuth": 120.0,
+                "Elevation": 0,
+                "FileName": "mojave_dynamic_4.png"
+            },
+            {
+                "Azimuth": 150.0,
+                "Elevation": 16,
+                "FileName": "mojave_dynamic_6.png"
+            },
+            {
+                "Azimuth": 181.0,
+                "Elevation": 21,
+                "FileName": "mojave_dynamic_7.png"
+            },
+            {
+                "Azimuth": 210,
+                "Elevation": 16,
+                "FileName": "mojave_dynamic_8.png"
+            },
+            {
+                "Azimuth": 240.0,
+                "Elevation": 0,
+                "FileName": "mojave_dynamic_11.png"
+            },
+            {
+                "Azimuth": 268.0,
+                "Elevation": -25,
+                "FileName": "mojave_dynamic_13.png"
+            },
+            {
+                "Azimuth": 294.0,
+                "Elevation": -44,
+                "FileName": "mojave_dynamic_14.png"
+            },
+            {
+                "Azimuth": 0,
+                "Elevation": -60,
+                "FileName": "mojave_dynamic_15.png"
+            }
+        ]
+    }
+}
