@@ -16,49 +16,84 @@
         "Type": "solar",
         "MetaData": [
             {
-                "Azimuth": 100,
-                "Elevation": -17,
+                "Azimuth": 56,
+                "Elevation": -27,
                 "FileName": "mojave_dynamic_1.png"
             },
             {
-                "Azimuth": 120.0,
+                "Azimuth": 75.0,
+                "Elevation": -14,
+                "FileName": "mojave_dynamic_2.png"
+            },
+            {
+                "Azimuth": 93,
                 "Elevation": 0,
+                "FileName": "mojave_dynamic_3.png"
+            },
+            {
+                "Azimuth": 110.0,
+                "Elevation": 15,
                 "FileName": "mojave_dynamic_4.png"
             },
             {
-                "Azimuth": 150.0,
-                "Elevation": 16,
+                "Azimuth": 130,
+                "Elevation": 28,
+                "FileName": "mojave_dynamic_5.png"
+            },
+            {
+                "Azimuth": 155.0,
+                "Elevation": 37,
                 "FileName": "mojave_dynamic_6.png"
             },
             {
-                "Azimuth": 181.0,
-                "Elevation": 21,
+                "Azimuth": 180.0,
+                "Elevation": 40,
                 "FileName": "mojave_dynamic_7.png"
             },
             {
-                "Azimuth": 210,
-                "Elevation": 16,
+                "Azimuth": 212.0,
+                "Elevation": 35,
                 "FileName": "mojave_dynamic_8.png"
             },
             {
-                "Azimuth": 240.0,
+                "Azimuth": 236.0,
+                "Elevation": 26,
+                "FileName": "mojave_dynamic_9.png"
+            },
+            {
+                "Azimuth": 255.0,
+                "Elevation": 13,
+                "FileName": "mojave_dynamic_10.png"
+            },
+            {
+                "Azimuth": 272.0,
                 "Elevation": 0,
                 "FileName": "mojave_dynamic_11.png"
             },
             {
-                "Azimuth": 268.0,
-                "Elevation": -25,
+                "Azimuth": 290.0,
+                "Elevation": -16,
+                "FileName": "mojave_dynamic_12.png"
+            },
+            {
+                "Azimuth": 310.0,
+                "Elevation": -28,
                 "FileName": "mojave_dynamic_13.png"
             },
             {
-                "Azimuth": 294.0,
-                "Elevation": -44,
+                "Azimuth": 335.0,
+                "Elevation": -37,
                 "FileName": "mojave_dynamic_14.png"
             },
-            {
-                "Azimuth": 0,
-                "Elevation": -60,
+                        {
+                "Azimuth": 4.0,
+                "Elevation": -40,
                 "FileName": "mojave_dynamic_15.png"
+            },
+            {
+                "Azimuth": 32,
+                "Elevation": -36,
+                "FileName": "mojave_dynamic_16.png"
             }
         ]
     }
